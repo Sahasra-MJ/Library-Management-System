@@ -40,7 +40,7 @@ Main.java      // User interaction
 1. Clone the repository:
 ```
 
-git clone [https://github.com/your-username/library-management-system.git](https://github.com/Sahasra-MJ/library-management-system.git)
+git clone (https://github.com/Sahasra-MJ/library-management-system.git)
 
 ```
 
